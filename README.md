@@ -13,6 +13,11 @@
 
 <img src="https://static.scarf.sh/a.png?x-pxid=6f4094ab-00fa-4a8d-9247-b7ed27e7164d" />
 
+# Developer fork
+This is a custom fork of one Rocketpy's back-end developers, MrGribel. Changes done here are made only for checking merging compatibility between different forks of the same repository inside GitHub.
+
+<br>
+
 # RocketPy
 RocketPy is the next-generation trajectory simulation solution for High-Power Rocketry. The code is written as a [Python](http://www.python.org) library and allows for a complete 6 degrees of freedom simulation of a rocket's flight trajectory, including high fidelity variable mass effects as well as descent under parachutes. Weather conditions, such as wind profile, can be imported from sophisticated datasets, allowing for realistic scenarios. Furthermore, the implementation facilitates complex simulations, such as multi-stage rockets, design and trajectory optimization and dispersion analysis.
 
